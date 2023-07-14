@@ -1,0 +1,87 @@
+site_name: Biodiversity Genomics Academy 2023
+site_url: https://bga23.org
+site_description: Biodiversity Genomics Academy 2023 - short workshops and introductory sessions for bioinformatics tools as part of the annual Biodiversity Genomics conference presented by the Earth Biogenome Project.
+copyright: Tree of Life Training, Wellcome Sanger Institute
+
+repo_url: https://github.com/tol-training/tol-training.github.io
+edit_uri: blob/main/docs
+
+nav:
+    - Home: index.md
+
+theme:
+    name: material
+    # custom_dir: docs/assets/overrides
+    language: en
+    logo: 
+    palette:
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+              icon: material/weather-night
+              name: Switch to light mode
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+              icon: material/weather-sunny
+              name: Switch to dark mode
+    font:
+        text: Inter
+    features:
+        - content.action.edit
+        - content.code.annotate
+        - content.code.copy
+        - navigation.footer
+        - navigation.tabs
+        - navigation.top
+        - navigation.tracking
+        - search.share
+        - toc.follow
+    icon:
+        repo: fontawesome/brands/github
+#extra_css:
+#    - assets/stylesheets/extra.css
+
+# Set in docs/assets/overrides/partials/copyright.html
+# so that we can have links and stuff
+# copyright: Seqera
+
+extra:
+    consent:
+        title: Cookie consent
+        description: >-
+            We use cookies to recognize your repeated visits and preferences, as well
+            as to measure the effectiveness of our documentation and whether users
+            find what they're searching for. With your consent, you're helping us to
+            make our documentation better.
+    # Overriden in docs/assets/overrides/partials/social.html
+    # Still needs to be set to something here so that the partial is used
+    social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/tol-training
+          name: Tree of Life Training on twitter
+        - icon: fontawesome/brands/mastodon
+          link: https://genomic.social/@tol_training
+          name: tol_training on genomic.social
+
+markdown_extensions:
+    - admonition
+    - attr_list
+    - md_in_html
+    - pymdownx.details
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.snippets:
+          base_path: ["."]
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - tables
+    - toc:
+          title: On this page
+          permalink: true
+plugins:
+    - search
