@@ -1,19 +1,15 @@
 ---
 title: Biodiversity Genomics Academy 2023
 description: Welcome to Biodiversity Genomics Academy 2023
-# hide:
-#     - navigation
-#     - toc
-#     - footer
 ---
 
 # What is it?
 
-Biodiversity Genomics Academy 2023 (BGA23) is a series of short **ONLINE-ONLY** sessions on how to install and use the bioinformatics tools and approaches necessary for the [Earth Biogenome Project (EBP)](https://earthbiogenome.org).
+Biodiversity Genomics Academy 2023 (BGA23) is a series of **FREE** and **OPEN** short **ONLINE-ONLY** sessions on how to install and use the bioinformatics tools and approaches necessary for the [Earth Biogenome Project (EBP)](https://earthbiogenome.org).
 
-In previous years of the [Biodiversity Genomics conference](https://events.venue-av.com/e/BG23_registration), a frequent request has been **“How DO you do that?”**. To meet this need we are asking researchers and teams who have developed bioinformatics tools and pipelines to present introductory workshops focussed on their software and approaches.
+BGA23 accompanies the [Biodiversity Genomics conference](https://events.venue-av.com/e/BG23_registration), In previous years of the conference, a frequent request has been **“How DO you do that?”**. To meet this need we are asking researchers and teams who have developed bioinformatics tools and pipelines to present introductory workshops focussed on their software and approaches.
 
-Attendees will be able to discuss installation and operation of bioinformatics toolkits in real time with the developers, take part in introductory exercises, and meet the community of scientists who are also using the tools, building a global community of practice in biodiversity genomics.
+BGA23 attendees will be able to discuss installation and operation of bioinformatics toolkits in real time with the developers, take part in introductory exercises, and meet the community of scientists who are also using the tools, building a global community of practice in biodiversity genomics.
 
 # Key Dates
 
