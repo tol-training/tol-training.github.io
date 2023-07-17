@@ -1,19 +1,18 @@
-site_name: Biodiversity Genomics Academy 2023
+site_name: BGA23
 site_url: https://bga23.org
 site_description: Biodiversity Genomics Academy 2023 - short workshops and introductory sessions for bioinformatics tools as part of the annual Biodiversity Genomics conference presented by the Earth Biogenome Project.
 copyright: Tree of Life Training, Wellcome Sanger Institute
-
-repo_url: https://github.com/tol-training/tol-training.github.io
 edit_uri: blob/main/docs
 
 nav:
-    - Home: index.md
+    - About: index.md
+    - sessions.md
 
 theme:
     name: material
     # custom_dir: docs/assets/overrides
     language: en
-    logo: 
+    logo: assets/BGA23_logo_transparent_325.png
     palette:
         # Palette toggle for dark mode
         - media: "(prefers-color-scheme: dark)"
@@ -37,7 +36,9 @@ theme:
         - navigation.tabs
         - navigation.top
         - navigation.tracking
+        - search.highlight
         - search.share
+        - search.suggest
         - toc.follow
 
 extra:
