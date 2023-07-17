@@ -21,12 +21,12 @@ BGA23 attendees will be able to discuss installation and operation of bioinforma
 
 # How do I sign up?
 
-To be the first to be informed as soon as registrations open for these sessions:
+Be the first to be informed as soon as registrations open for these sessions:
 
 - Please bookmark this website
 - and/or follow our social media accounts
     - :fontawesome-brands-twitter: [twitter.com/BGAcademy23](https://twitter.com/BGAcademy23)
-    - :fontawesome-brands-mastodon: [genomic.social/@bga23](https://genomic.social/@bga23)
+    - :fontawesome-brands-mastodon: [genomic.social/@BGAcademy23](https://genomic.social/@BGAcademy23)<a rel="me" href="https://genomic.social/@BGAcademy23"></a>
 - and/or sign up for our mailing list below
 
 [Subscribe](https://zcmp.eu/QIAZ){ .md-button .md-button--primary }
