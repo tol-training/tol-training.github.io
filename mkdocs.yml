@@ -54,7 +54,7 @@ extra:
           link: https://twitter.com/BGAcademy23
           name: Tree of Life Training on twitter
         - icon: fontawesome/brands/mastodon
-          link: https://genomic.social/@bga23
+          link: https://genomic.social/@BGAcademy23
           name: tol_training on genomic.social
 
 markdown_extensions:
