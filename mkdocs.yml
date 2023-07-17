@@ -7,71 +7,74 @@ repo_url: https://github.com/tol-training/tol-training.github.io
 edit_uri: blob/main/docs
 
 nav:
-  - Home: index.md
+    - Home: index.md
 
 theme:
-  name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-  language: en
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
-
-plugins:
-  - social
+    name: material
+    # custom_dir: docs/assets/overrides
+    language: en
+    logo: 
+    palette:
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          toggle:
+              icon: material/weather-night
+              name: Switch to light mode
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          toggle:
+              icon: material/weather-sunny
+              name: Switch to dark mode
+    font:
+        text: Inter
+    features:
+        - content.action.edit
+        - content.code.annotate
+        - content.code.copy
+        - navigation.footer
+        - navigation.tabs
+        - navigation.top
+        - navigation.tracking
+        - search.share
+        - toc.follow
 
 extra:
-  consent:
-    title: Cookie consent
-    description: >-
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
-social:
-  - icon: fontawesome/brands/twitter
-    link: https://twitter.com/BGAcademy23
-    name: Tree of Life Training on twitter
-  - icon: fontawesome/brands/mastodon
-    link: https://genomic.social/@bga23
-    name: tol_training on genomic.social
+    consent:
+        title: Cookie consent
+        description: >-
+            We use cookies to recognize your repeated visits and preferences, as well
+            as to measure the effectiveness of our documentation and whether users
+            find what they're searching for. With your consent, you're helping us to
+            make our documentation better.
+    social:
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/BGAcademy23
+          name: Tree of Life Training on twitter
+        - icon: fontawesome/brands/mastodon
+          link: https://genomic.social/@bga23
+          name: tol_training on genomic.social
 
 markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.details
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.keys
-  - pymdownx.snippets:
-      base_path: ["."]
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - tables
-  - toc:
-      title: On this page
-      permalink: true
+    - admonition
+    - attr_list
+    - md_in_html
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.details
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.snippets:
+          base_path: ["."]
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - tables
+    - toc:
+          title: On this page
+          permalink: true
+plugins:
+    - search
