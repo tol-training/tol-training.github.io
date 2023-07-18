@@ -73,4 +73,3 @@ markdown_extensions:
           permalink: true
 plugins:
     - search
-    - open-in-new-tab
