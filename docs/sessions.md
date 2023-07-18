@@ -3,7 +3,7 @@ title: BGA23 Sessions
 description: Current list of sessions at Biodiversity Genomics Academy 2023
 ---
 
-## List of Planned Sessions
+## Planned Sessions
 
 The list of sessions planned so far is given below. We are currently in the process of finalising the dates and times of these **online** sessions between 1-30 September 2023. 
 
@@ -20,7 +20,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html) way | Leanne Haggerty and José G Pérez-Silva |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey) | Tobias Baril |
 
-## List of Proposed Sessions
+## Proposed Sessions
 
 In addition, we would like to host introductory sessions on the following topics as well. So if you are a developer or an expert in any of these, and are willing to lead a session on any of the following, please contact [sujai.kumar@sanger.ac.uk](mailto:sujai.kumar@sanger.ac.uk) or the social media accounts below.
 
@@ -51,7 +51,7 @@ In addition, we would like to host introductory sessions on the following topics
 
 ## How do I sign up?
 
-Be the first to be informed as soon as registrations open for these sessions by signing up for our low-volume mailing list. We will use this list ONLY for Biodiversity Genomics Academy information. You can unsubscribe at any time.
+Be the first to be informed as soon as registrations open for these free and open to all sessions by signing up for our low-volume mailing list. We will use this list ONLY for Biodiversity Genomics Academy information. You can unsubscribe at any time.
 
 [Subscribe](https://zcmp.eu/QIAZ){ .md-button .md-button--primary }
 
