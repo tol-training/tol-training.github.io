@@ -1,5 +1,5 @@
 ---
-title: BGA23 Sessions
+title: Sessions
 description: Current list of sessions at Biodiversity Genomics Academy 2023
 ---
 
@@ -58,7 +58,7 @@ Be the first to be informed as soon as registrations open for these free and ope
 
 [Subscribe](https://zcmp.eu/QIAZ){ .md-button .md-button--primary }
 
-In addition, please bookmark this website, and follow our social media accounts:
+Connect with us, our session leads and other attendees on our socials:
 
 :fontawesome-brands-twitter: [twitter.com/BGAcademy23](https://twitter.com/BGAcademy23)
 
