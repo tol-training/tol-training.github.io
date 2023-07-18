@@ -7,8 +7,8 @@ description: Current list of sessions at Biodiversity Genomics Academy 2023
 
 The list of sessions planned so far is given below. We are currently in the process of finalising the dates and times of these **online** sessions between 1-30 September 2023. 
 
-| Title | Instructor |
-|-------|------------|
+| Title | Session Leader |
+|-------|----------------|
 | Planning genome projects using [GoaT](https://goat.genomehubs.org) | Cibele Sotero-Caio |
 | Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot) | Kamil Jaron |
 | Assembling Mito genomes using [MitoHifi](https://github.com/marcelauliano/MitoHiFi) | Marcela Uliano-Silva |
@@ -23,7 +23,9 @@ The list of sessions planned so far is given below. We are currently in the proc
 
 ## Proposed Sessions
 
-In addition, we would like to host introductory sessions on the following topics as well. So if you are a developer or an expert in any of these, and are willing to lead a session on any of the following, please contact [sujai.kumar@sanger.ac.uk](mailto:sujai.kumar@sanger.ac.uk) or the social media accounts below.
+In addition, we would like to host sessions on some of the following topics as well. So if you are a developer or an expert in any of these, and are willing to lead a session on any of the following, please contact [sujai.kumar@sanger.ac.uk](mailto:sujai.kumar@sanger.ac.uk) or the social media accounts below.
+
+This is not an exhaustive list, so any other related topics are also welcome. If there are enough volunteers we will continue the sessions outside the Biodiversity Genomics conference schedule beyond September as well.
 
 | Topic |
 |-------|
