@@ -19,6 +19,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval) | Genome Reference Informatics Team |
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html) way | Leanne Haggerty and José G Pérez-Silva |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey) | Tobias Baril |
+| Exploring and retrieving open biodiversity data using EMBL-EBI's biodiversity portals | Joana Pauperio |
 
 ## Proposed Sessions
 
