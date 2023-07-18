@@ -13,10 +13,10 @@ No, you can attend as many sessions as you like.
 Yes, because we aim to have highly interactive sessions. We are aiming for < 30 participants per session. If many more people are interested in a particular session, session leaders may choose to offer a webinar format where participant inputs are limited to text, rather than audio and video.
 
 **Will you use Zoom or Teams or Meet or...?**  
-We are currently deciding which online platform / combination best meets the needs of the session leaders and participants. We will provide all details on registration.
+We are currently deciding which online platform combination best meets the needs of the session leaders and participants. We will provide all details on registration.
 
 **How will the community exist outside of the sessions?**  
-We will use the GitHub Discussions platform and/or other asynchronous discussion platforms. We will provide all details on registration as above.
+We will encourage participants to sign up to and use the existing community platforms for each tool. For the live sessions we will use Discord for synchronous discussions and will provide all details on registration as above.
 
 **Will I need a powerful computer to participate?**  
 No, all you will need are a desktop browser and a GitHub account, as we will use Gitpod.io for sessions that need a linux command line.

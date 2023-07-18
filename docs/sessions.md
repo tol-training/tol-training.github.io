@@ -9,16 +9,16 @@ The list of sessions planned so far is given below. We are currently in the proc
 
 | Title | Session Leader |
 |-------|----------------|
-| Planning genome projects using [GoaT](https://goat.genomehubs.org) | Cibele Sotero-Caio |
-| Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot) | Kamil Jaron |
-| Assembling Mito genomes using [MitoHifi](https://github.com/marcelauliano/MitoHiFi) | Marcela Uliano-Silva |
-| Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view) | Sujai Kumar |
-| Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view) | Sujai Kumar |
-| Using the [Vertebtate Genome Project (VGP) Pipeline in Galaxy](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html) | Delphine Lariviere |
-| Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/) | Nuala O'Leary |
-| Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval) | Genome Reference Informatics Team |
-| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html) way | Leanne Haggerty and José G Pérez-Silva |
-| Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey) | Tobias Baril |
+| Planning genome projects using [GoaT](https://goat.genomehubs.org){:target="_blank"} | Cibele Sotero-Caio |
+| Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){:target="_blank"} | Kamil Jaron |
+| Assembling Mito genomes using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
+| Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
+| Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
+| Using the [Vertebtate Genome Project (VGP) Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} in Galaxy | Delphine Lariviere |
+| Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){:target="_blank"} | Nuala O'Leary |
+| Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval){:target="_blank"} | Genome Reference Informatics Team |
+| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){:target="_blank"} way | Leanne Haggerty and José G Pérez-Silva |
+| Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){:target="_blank"} | Tobias Baril |
 | Exploring and retrieving open biodiversity data using EMBL-EBI's biodiversity portals | Joana Pauperio |
 
 ## Proposed Sessions
@@ -56,10 +56,10 @@ This is not an exhaustive list, so any other related topics are also welcome. If
 
 Be the first to be informed as soon as registrations open for these free and open to all sessions by signing up for our low-volume mailing list. We will use this list ONLY for Biodiversity Genomics Academy information. You can unsubscribe at any time.
 
-[Subscribe](https://tinyletter.com/bgacademy23){ .md-button .md-button--primary }
+[Subscribe](https://tinyletter.com/bgacademy23){ :target="_blank" .md-button .md-button--primary }
 
 Connect with us, our session leads and other attendees on our socials:
 
-:fontawesome-brands-twitter: [twitter.com/BGAcademy23](https://twitter.com/BGAcademy23)
+:fontawesome-brands-twitter: [twitter.com/BGAcademy23](https://twitter.com/BGAcademy23){:target="_blank"}
 
-:fontawesome-brands-mastodon: [genomic.social/@BGAcademy23](https://genomic.social/@BGAcademy23)<a rel="me" href="https://genomic.social/@BGAcademy23"></a>
+:fontawesome-brands-mastodon: [genomic.social/@BGAcademy23](https://genomic.social/@BGAcademy23){:target="_blank"}<a rel="me" href="https://genomic.social/@BGAcademy23"></a>
