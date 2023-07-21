@@ -11,7 +11,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 |-------|----------------|
 | Planning genome projects using [GoaT](https://goat.genomehubs.org){:target="_blank"} | Cibele Sotero-Caio |
 | Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){:target="_blank"} | Kamil Jaron |
-| Assembling Mito genomes using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
+| Assembling Mitogenomes from PacBio HiFi reads using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
 | [BUSCO](https://busco.ezlab.org/){:target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse |
 | Using the [Vertebtate Genome Project (VGP) Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} in Galaxy | Delphine Lariviere |
 | Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval){:target="_blank"} | Genome Reference Informatics Team |
