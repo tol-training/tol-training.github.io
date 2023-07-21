@@ -12,14 +12,16 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Planning genome projects using [GoaT](https://goat.genomehubs.org){:target="_blank"} | Cibele Sotero-Caio |
 | Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){:target="_blank"} | Kamil Jaron |
 | Assembling Mito genomes using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
-| Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
-| Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
+| [BUSCO](https://busco.ezlab.org/){:target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse |
 | Using the [Vertebtate Genome Project (VGP) Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} in Galaxy | Delphine Lariviere |
-| Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){:target="_blank"} | Nuala O'Leary |
 | Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval){:target="_blank"} | Genome Reference Informatics Team |
+| Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
+| Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} locally | Sujai Kumar |
+| Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){:target="_blank"} | Nuala O'Leary |
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){:target="_blank"} way | Leanne Haggerty and José G Pérez-Silva |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){:target="_blank"} | Tobias Baril |
-| Exploring and retrieving open biodiversity data using EMBL-EBI's biodiversity portals | Joana Pauperio |
+| Exploring and retrieving open biodiversity data using EMBL-EBI's biodiversity portals | Alexey Sokolov |
+| Standards for Biodiversity data and ENA submission | Joana Pauperio |
 
 ## Proposed Sessions
 
