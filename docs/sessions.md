@@ -21,8 +21,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){:target="_blank"} way | Leanne Haggerty and José G Pérez-Silva |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){:target="_blank"} | Tobias Baril |
 | Exploring and retrieving open biodiversity data using EMBL-EBI's biodiversity portals | Alexey Sokolov |
-| EBI Biodiversity Portals | Alexey Sokolov |
-| ENA Standards and Submission | Maira Ihsan |
+| Standards for Biodiversity data and ENA submission | Maira Ihsan |
 
 ## Proposed Sessions
 
