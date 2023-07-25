@@ -13,7 +13,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){:target="_blank"} | Kamil Jaron |
 | Assembling Mitogenomes from PacBio HiFi reads using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
 | [BUSCO](https://busco.ezlab.org/){:target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse |
-| Using the [Vertebtate Genome Project (VGP) Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} in Galaxy | Delphine Lariviere |
+| Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} | Delphine Lariviere |
 | Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval){:target="_blank"} | Genome Reference Informatics Team |
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
 | Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} locally | Sujai Kumar |
