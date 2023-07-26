@@ -14,6 +14,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Assembling Mitogenomes from PacBio HiFi reads using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
 | [BUSCO](https://busco.ezlab.org/){:target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse |
 | Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} | Delphine Lariviere |
+| Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){:target="_blank"} | Arang Rhie |
 | Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval){:target="_blank"} | Genome Reference Informatics Team |
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
 | Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} locally | Sujai Kumar |
@@ -48,7 +49,6 @@ This is not an exhaustive list, so any other related topics are also welcome. If
 | Using Bandage to explore assembly graphs |
 | Genefinding with BRAKER3 |
 | Verkko: telomere-to-telomere assembly of diploid chromosomes |
-| Using Merqury to assess assemblies |
 | Using OrthoFinder to find orthologs across genomes |
 | Aligning whole genomes using Cactus |
 | Using the Telomere Identification toolKit (tidk) |
