@@ -5,7 +5,7 @@ description: Current list of sessions at Biodiversity Genomics Academy 2023
 
 ## Planned Sessions
 
-The list of sessions planned so far is given below. We are currently in the process of finalising the dates and times of these **online** sessions between 1-30 September 2023. 
+The list of sessions planned so far is given below. We are currently in the process of finalising the dates and times of these **online** sessions to be held between 1-30 September 2023. 
 
 | Title | Session Leader |
 |-------|----------------|
