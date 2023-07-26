@@ -19,6 +19,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
 | Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} locally | Sujai Kumar |
 | Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){:target="_blank"} | Nuala O'Leary |
+| Compare whole genome assembly alignments using NCBI’s [Comparative Genome Viewer (CGV)](https://www.ncbi.nlm.nih.gov/genome/cgv){:target="_blank"} | Sanjida Rangwala |
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){:target="_blank"} way | Leanne Haggerty and José G Pérez-Silva |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){:target="_blank"} | Tobias Baril |
 | ENA data retrieval and EMBL-EBI's Biodiversity Portals | Alexey Sokolov |
