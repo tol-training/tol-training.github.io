@@ -5,20 +5,6 @@ description: Information for Session Leaders at Biodiversity Genomics Academy 20
 
 > Find all our [planned and proposed sessions here](../sessions)
 
-## Background
-
-### Why are we doing this?
-The [Earth Biogenome Project](https://earthbiogenome.org){:target="_blank"} aims to sequence ~2M species worldwide in the next decade. The bioinformatics tools and approaches for generating (and then analysing) high quality reference genomes are rapidly evolving and improving. We want a growing community of genomics researchers who will use the best practices in the field.
-
-### Why us?
-The [Biodiversity Genomics online conference](https://events.venue-av.com/e/BG23_registration){:target="_blank"} has been fully free, open, and worldwide for three years now from 2020 to 2022. [BG22](https://drive.google.com/file/d/1ScfLz-idIV-Wx_JzzoWdd1hWFywlyim0/view){:target="_blank"} was attended by over 2000 people worldwide,
- 
-**Biodiversity Genomics Academy 2023** is a new, free online training event in conjunction with BG23, hosted by the Wellcome Sanger Institute in collaboration with other EBP partners like the Darwin Tree of Life, Vertebrate Genomes Project, European Reference Genome Atlas, etc.
-
-We will have a dedicated coordinator ([Sujai Kumar](mailto:sujai.kumar@sanger.ac.uk)) who will be responsible for organising everything - promotion, participant registration, online resources, free computing workspaces, community forums, etc. You get the benefit of a worldwide audience and to help others use your tools, methods, and resources.
-
-----
-
 ## Next Steps
 
 ### Stage 1
@@ -73,3 +59,26 @@ I will be on hand to create a .gitpod.yml for your session, which you are obviou
 - As BGA23 has a global audience, each session will be repeated at least once to make it accessible to other time zones. We would love for you to do a second live session in a complementary time zone but we realise that that’s a big ask. If you can’t do a second live session, we would like for you to specify a day that you/your team are available to take part in asynchronous text discussions (on discord/ GitHub Discussions) with repeat session participants who will have already viewed a recording of your first session.
 - You don’t need to specify live/recorded, or the day/time of your repeat session right away but please keep this in mind when submitting your preference for the main live session.
 - Just to clarify - we typically expect all session materials/video recordings to be fully public, in the FAIR / sharing spirit of the Earth Biogenome Project. But if this is a problem for any reason, please let me know and we'll think of a workaround.
+
+---
+
+## Background
+
+### Why are we doing this?
+The [Earth Biogenome Project](https://earthbiogenome.org){:target="_blank"} aims to sequence ~2M species worldwide in the next decade. The bioinformatics tools and approaches for generating (and then analysing) high quality reference genomes are rapidly evolving and improving. We want a growing community of genomics researchers who will use the best practices in the field.
+
+### Why us?
+The [Biodiversity Genomics online conference](https://events.venue-av.com/e/BG23_registration){:target="_blank"} has been fully free, open, and worldwide for three years now from 2020 to 2022. [BG22](https://drive.google.com/file/d/1ScfLz-idIV-Wx_JzzoWdd1hWFywlyim0/view){:target="_blank"} was attended by over 2000 people worldwide,
+ 
+**Biodiversity Genomics Academy 2023** is a new, free online training event in conjunction with BG23, hosted by the Wellcome Sanger Institute in collaboration with other EBP partners like the Darwin Tree of Life, Vertebrate Genomes Project, European Reference Genome Atlas, etc.
+
+We will have a dedicated coordinator ([Sujai Kumar](mailto:sujai.kumar@sanger.ac.uk)) who will be responsible for organising everything - promotion, participant registration, online resources, free computing workspaces, community forums, etc. You get the benefit of a worldwide audience and to help others use your tools, methods, and resources.
+
+### What will it look like
+
+Each session is either targeted at
+
+- beginners, eg an introduction to a concept, or a demo on how to set up and use your approach/ tool/ resource, or
+- advanced users, eg a masterclass for regular users addressing complex and nuanced issues with your approach/ tool/ resource
+
+You can choose your audience (beginners or advanced users) and also request more time if you need it. We will use [Gitpod.io](https://gitpod.io){:target="_blank"} if you need it, for pre-configured software environments with pre-loaded data, so you can keep pre-computed analyses ready in case any steps take very long.
