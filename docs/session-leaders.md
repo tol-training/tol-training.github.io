@@ -10,15 +10,7 @@ description: Information for Session Leaders at Biodiversity Genomics Academy 20
 1. Choose your time slot between 1st and 30th September
 2. Confirm your session title
 
-I will send you the link to a google sheet where all current sessions are listed (more will be added)
-
-- Please copy and paste your session to your preferred slot as long as you leave an hour between sessions.
-- You can take 1 hour or 2 hour slots (even if you only need 1.5 hours). Or you can take 1hr slots across 2 days if you prefer (I've shown BlobToolKit across two days as a tentative example)
-- If you can only do a slot that is already taken, please [contact me](mailto:sujai.kumar@sanger.ac.uk)
-- The slot times are UTC, so [please adjust for your time zone](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20230915&p1=224&p2=41&p3=45&p4=4&p5=37&p6=170&p7=176&p8=33&p9=240&p10=22){:target="_blank"}
-- Weekdays are preferered, but weekends are fine too as this is a global online audience
-- The order of sessions is approximately the order of these tools/resources in a genome project
-- Ideally, we would like the final scheduling in this order too, eg keep GoaT/Smudgeplots/BUSCO in the first weeks, Ensembl Annotation/ENA/EBI towards the end. But this is a nice-to-have, not a must-have
+I will send you the link to a google sheet where all current sessions are listed (more will be added). Please copy and paste your session to your preferred slot as long as you leave an hour between sessions.
 
 ## Stage 2
 
