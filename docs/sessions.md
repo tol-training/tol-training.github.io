@@ -14,6 +14,7 @@ The list of sessions planned so far is given below. We are currently in the proc
 | Assembling Mitogenomes from PacBio HiFi reads using [MitoHifi](https://github.com/marcelauliano/MitoHiFi){:target="_blank"} | Marcela Uliano-Silva |
 | [BUSCO](https://busco.ezlab.org/){:target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse |
 | Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){:target="_blank"} | Delphine Lariviere |
+| [Gfastar](https://github.com/vgl-hub/gfastar): a tool suite to assist genome assembly | Giulio Formenti and Cassidy Johnson |
 | Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){:target="_blank"} | Arang Rhie |
 | Curating genomes using [TreeVal](https://github.com/sanger-tol/treeval){:target="_blank"} | Genome Reference Informatics Team |
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){:target="_blank"} | Sujai Kumar |
