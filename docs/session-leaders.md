@@ -3,7 +3,7 @@ title: Information for Session Leaders
 description: Information for Session Leaders at Biodiversity Genomics Academy 2023
 ---
 
-> Find all our [planned and proposed sessions here](../sessions)
+> Find all our [planned and proposed sessions here](sessions.md)
 
 ## Next Steps
 
