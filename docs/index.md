@@ -7,7 +7,7 @@ description: Welcome to Biodiversity Genomics Academy 2023
 
 Biodiversity Genomics Academy 2023 (BGA23) is a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org){:target="_blank"}.
 
-> Find all our [planned and proposed sessions here](sessions)
+> Find all our [planned and proposed sessions here](sessions.md)
 
 BGA23 accompanies the [Biodiversity Genomics conference](https://events.venue-av.com/e/BG23_registration){:target="_blank"}. In previous years of the conference, a common question has been **“How DO you do that?”**. This year, we have asked bioinformatics researchers and teams to present workshops and demonstration sessions focussed on their software and methods.
 
@@ -15,7 +15,7 @@ BGA23 accompanies the [Biodiversity Genomics conference](https://events.venue-av
 
 BGA23 attendees will be able to discuss the installation and operation of bioinformatics toolkits in real time with the developers, take part in introductory exercises and masterclasses, and meet the other scientists who are also using the tools, building a global community of practice in biodiversity genomics.
 
-> [Frequently Asked Questions](faq)
+> [Frequently Asked Questions](faq.md)
 
 ## Key Dates
 
