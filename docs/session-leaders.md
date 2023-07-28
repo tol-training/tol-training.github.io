@@ -41,11 +41,11 @@ To be finished by 25th August (ideally). I will send reminders, but please [emai
 
 If your session requires linux command line access. I will help create a .gitpod.yml in the repo, which will allow users to start a server with software already installed and example files ready to go
 
-For example, for BlobToolKit, I created a [.gitpod.yml](https://github.com/bgacademy23/blobtoolkit/blob/main/.gitpod.yml){:target="_blank"} file for installing the dependencies (conda) and pip installing the code, and also added code for starting the docker containers for the API and viewer, which is also nice for end users as they can see what they need to do on their own desktops/HPC server accounts.
+For example, for BlobToolKit, I created a [.gitpod.yml](https://github.com/bgacademy23/blobtoolkit/blob/main/.gitpod.yml){: target="_blank"} file for installing the dependencies (conda) and pip installing the code, and also added code for starting the docker containers for the API and viewer, which is also nice for end users as they can see what they need to do on their own desktops/HPC server accounts.
 
 To try it out:
 
-- Click on [https://gitpod.io/#https://github.com/bgacademy23/blobtoolkit](https://gitpod.io/#https://github.com/bgacademy23/blobtoolkit){:target="_blank"}
+- Click on [https://gitpod.io/#https://github.com/bgacademy23/blobtoolkit](https://gitpod.io/#https://github.com/bgacademy23/blobtoolkit){: target="_blank"}
 - It will ask you to sign in using GitHub, and for permission to create a gitpod account using your github credentials (this is safe, it asks for read-only access to your GitHub public profile)
 - Then it will ask you to launch a workspace (defaults are fine)
 - The workspace should take less than a minute to start and will give you a command prompt, where you can run the `blobtools` command to see that everything is installed.
@@ -65,10 +65,10 @@ I will be on hand to create a .gitpod.yml for your session, which you are obviou
 ## Background
 
 ### Why are we doing this?
-The [Earth Biogenome Project](https://earthbiogenome.org){:target="_blank"} aims to sequence ~2M species worldwide in the next decade. The bioinformatics tools and approaches for generating (and then analysing) high quality reference genomes are rapidly evolving and improving. We want a growing community of genomics researchers who will use the best practices in the field.
+The [Earth Biogenome Project](https://earthbiogenome.org){: target="_blank"} aims to sequence ~2M species worldwide in the next decade. The bioinformatics tools and approaches for generating (and then analysing) high quality reference genomes are rapidly evolving and improving. We want a growing community of genomics researchers who will use the best practices in the field.
 
 ### Why us?
-The [Biodiversity Genomics online conference](https://events.venue-av.com/e/BG23_registration){:target="_blank"} has been fully free, open, and worldwide for three years now from 2020 to 2022. [BG22](https://drive.google.com/file/d/1ScfLz-idIV-Wx_JzzoWdd1hWFywlyim0/view){:target="_blank"} was attended by over 2000 people worldwide,
+The [Biodiversity Genomics online conference](https://events.venue-av.com/e/BG23_registration){: target="_blank"} has been fully free, open, and worldwide for three years now from 2020 to 2022. [BG22](https://drive.google.com/file/d/1ScfLz-idIV-Wx_JzzoWdd1hWFywlyim0/view){: target="_blank"} was attended by over 2000 people worldwide,
  
 **Biodiversity Genomics Academy 2023** is a new, free online training event in conjunction with BG23, hosted by the Wellcome Sanger Institute in collaboration with other EBP partners like the Darwin Tree of Life, Vertebrate Genomes Project, European Reference Genome Atlas, etc.
 
@@ -81,4 +81,4 @@ Each session is either targeted at
 - beginners, eg an introduction to a concept, or a demo on how to set up and use your approach/ tool/ resource, or
 - advanced users, eg a masterclass for regular users addressing complex and nuanced issues with your approach/ tool/ resource
 
-You can choose your audience (beginners or advanced users) and also request more time if you need it. We will use [Gitpod.io](https://gitpod.io){:target="_blank"} if you need it, for pre-configured software environments with pre-loaded data, so you can keep pre-computed analyses ready in case any steps take very long.
+You can choose your audience (beginners or advanced users) and also request more time if you need it. We will use [Gitpod.io](https://gitpod.io){: target="_blank"} if you need it, for pre-configured software environments with pre-loaded data, so you can keep pre-computed analyses ready in case any steps take very long.

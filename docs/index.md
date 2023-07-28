@@ -5,11 +5,11 @@ description: Welcome to Biodiversity Genomics Academy 2023
 
 ## What is BGA23?
 
-Biodiversity Genomics Academy 2023 (BGA23) is a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org){:target="_blank"}.
+Biodiversity Genomics Academy 2023 (BGA23) is a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org){: target="_blank"}.
 
-> Find all our [planned and proposed sessions here](sessions.md)
+> **[Registrations Open for 17 Sessions](sessions.md)**
 
-BGA23 accompanies the [Biodiversity Genomics conference](https://events.venue-av.com/e/BG23_registration){:target="_blank"}. In previous years of the conference, a common question has been **“How DO you do that?”**. This year, we have asked bioinformatics researchers and teams to present workshops and demonstration sessions focussed on their software and methods.
+BGA23 accompanies the [Biodiversity Genomics conference](https://events.venue-av.com/e/BG23_registration){: target="_blank"}. In previous years of the conference, a common question has been **“How DO you do that?”**. This year, we have asked bioinformatics researchers and teams to present workshops and demonstration sessions focussed on their software and methods.
 
 ![How do you do that](assets/how_do_you_do_that.jpg)
 
@@ -23,7 +23,7 @@ BGA23 attendees will be able to discuss the installation and operation of bioinf
 |------|-------|
 | 28 July 2023 | BGA23 Registration opens on this site |
 | 1-30 September 2023 | BGA23 Workshops / Sessions |
-| 2-6 October 2023 | [Biodiversity Genomics 2023](https://events.venue-av.com/e/BG23_registration){:target="_blank"} conference | 
+| 2-6 October 2023 | [Biodiversity Genomics 2023](https://events.venue-av.com/e/BG23_registration){: target="_blank"} conference | 
 
 ## [How do I sign up?](signup.md)
 
