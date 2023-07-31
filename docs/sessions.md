@@ -31,6 +31,7 @@ Detailed session contents will be added over time at this site. Instructions for
 | ENA data retrieval and EMBL-EBI's Biodiversity Portals | Alexey Sokolov | [Register](https://buytickets.at/bga23/973223){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 09:00-10:00<br/>27 Sep 18:00-19:00 |
 | Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){: target="_blank"} | Arang Rhie | [Register](https://buytickets.at/bga23/973198){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 | 
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way | Leanne Haggerty and José G Pérez-Silva | |
+| [Hifiasm](https://github.com/chhylp123/hifiasm){: target="_blank"}: a haplotype-resolved assembler for accurate Hifi reads | Haoyu Cheng | |
 
 ## Proposed Sessions
 
