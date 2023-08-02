@@ -32,7 +32,8 @@ Detailed session contents will be added over time at this site. Instructions for
 | ENA data retrieval and EMBL-EBI's Biodiversity Portals | Alexey Sokolov | [Register](https://buytickets.at/bga23/973223){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 09:00-10:00<br/>27 Sep 18:00-19:00 |
 | Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){: target="_blank"} | Arang Rhie | [Register](https://buytickets.at/bga23/973198){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 |
 | [EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation | Jill Wegrzyn and Cynthia Webster | [Register](https://buytickets.at/bga23/975736){ : target="_blank" .md-button .md-button--primary }<br/>27 Sep 13:00-15:00 |
-| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way | Leanne Haggerty and José G Pérez-Silva | |
+| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way: General Concepts and Background + A Case study: Annotating Fungal Genomes - The Challenges! | Leanne Haggerty | [Register](https://buytickets.at/bga23/976019){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 12:00-14:00 |
+| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way: Hands-on - From RNAseq reads to gene models | José G Pérez-Silva | [Register](https://buytickets.at/bga23/976020){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 14:00-16:00 |
 
 ## Proposed Sessions
 

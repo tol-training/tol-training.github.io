@@ -3,7 +3,7 @@ title: Frequently asked Questions
 description: Frequently Asked Questions
 ---
 **Is this free?**  
-Yes, bioinformatics tool and resource developers and [Earth Biogenome Project (EBP)](https://earthbiogenome.org) members worldwide are volunteering their time in the spirit of the EBP.
+Yes, bioinformatics tool and resource developers as well as [Earth Biogenome Project (EBP)](https://earthbiogenome.org) members worldwide are volunteering their time in the spirit of the EBP.
 
 **How long will a session be?**  
 Typically 1 hour, but a few may be 2 hours.
