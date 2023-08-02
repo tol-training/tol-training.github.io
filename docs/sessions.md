@@ -30,7 +30,8 @@ Detailed session contents will be added over time at this site. Instructions for
 | Scalable telomere-to-telomere assembly with [hifiasm](https://github.com/chhylp123/hifiasm){: target="_blank"} | Haoyu Cheng | [Register](https://buytickets.at/bga23/975629){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 17:00-18:00 |
 | ENA Standards and Submission | Maira Ihsan | [Register](https://buytickets.at/bga23/973225){ : target="_blank" .md-button .md-button--primary }<br/>25 Sep 09:00-11:00<br/>26 Sep 18:00-20:00 |
 | ENA data retrieval and EMBL-EBI's Biodiversity Portals | Alexey Sokolov | [Register](https://buytickets.at/bga23/973223){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 09:00-10:00<br/>27 Sep 18:00-19:00 |
-| Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){: target="_blank"} | Arang Rhie | [Register](https://buytickets.at/bga23/973198){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 | 
+| Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){: target="_blank"} | Arang Rhie | [Register](https://buytickets.at/bga23/973198){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 |
+| [EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation | Jill Wegrzyn and Cynthia Webster | [Register](https://buytickets.at/bga23/975736){ : target="_blank" .md-button .md-button--primary }<br/>27 Sep 13:00-15:00 |
 | Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way | Leanne Haggerty and José G Pérez-Silva | |
 
 ## Proposed Sessions
