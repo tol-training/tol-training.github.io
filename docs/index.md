@@ -17,7 +17,7 @@ BGA23 accompanies the [Biodiversity Genomics conference](https://events.venue-av
 
 BGA23 attendees will be able to discuss the installation and operation of bioinformatics toolkits in real time with the developers, take part in introductory exercises and masterclasses, and meet the other scientists who are also using the tools, building a global community of practice in biodiversity genomics.
 
-> [Frequently Asked Questions](faq.md)
+> **[Frequently Asked Questions](faq.md)**
 
 ## Key Dates
 
@@ -27,6 +27,7 @@ BGA23 attendees will be able to discuss the installation and operation of bioinf
 | 1-30 September 2023 | BGA23 Workshops / Sessions |
 | 2-6 October 2023 | [Biodiversity Genomics 2023](https://events.venue-av.com/e/BG23_registration){: target="_blank"} conference | 
 
-## [How do I sign up?](signup.md)
-
 ![BGA23 Save the date 1-30 September](assets/bga23_twitter_header_save_the_date.jpg)
+
+## **[How do I stay informed?](signup.md)**
+
