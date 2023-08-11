@@ -7,7 +7,7 @@ description: Welcome to Biodiversity Genomics Academy 2023
 
 Biodiversity Genomics Academy 2023 (BGA23) is a series of **free, open to all, online-only, short, interactive** sessions on how to use the bioinformatics tools and approaches that underpin the [Earth Biogenome Project (EBP)](https://earthbiogenome.org){: target="_blank"}.
 
-> **[Registrations now open for 28 Sessions](sessions.md)**
+> **[Registrations now open for 31 Sessions](sessions.md)**
 
 [Register](sessions.md){ .md-button .md-button--primary }
 

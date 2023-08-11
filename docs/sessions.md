@@ -17,12 +17,14 @@ If there are 2 time slots available for a session, pick the one you can attend m
 !!! info "**2023-08-11 Update**"
     We are notifying waitlisted participants today by email on how to book extra slots. If you have a confirmed slot already that you can no longer attend, please email tol-training at sanger.ac.uk with your order details so we can free up your slot for other waitlisted participants. Thank you!
 
-    New sessions added/changed:
+    Sessions added/changed:
 
     - "Introduction to manual curation - Treeval" renamed to "Setting up the Treeval pipeline for generating evidence for manual curation", and a new session added 18 Sep 11:00-13:00
     - "Starting a comparative genome study from [CNGBdb](https://db.cngb.org/){: target="_blank"}: datasets, analysis platform, and spatial transcriptomics database" 13 Sep 09:00-11:00
+    - "Genome profiling using [Genomescope](https://github.com/tbenavi1/genomescope2.0){: target="_blank"} 15 Sep 09:00-11:00
+    - "Introduction to Manual Curation - HiC and JBrowse" new session added 19 Sep 11:00-13:00
 
-
+    
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>4 Sep 20:00-21:00 |
@@ -34,7 +36,8 @@ If there are 2 time slots available for a session, pick the one you can attend m
 | Starting a comparative genome study from [CNGBdb](https://db.cngb.org/){: target="_blank"}: datasets, analysis platform, and spatial transcriptomics database  | Xiaofeng Wei, Huanming Yang, Xin Liu | [Register](https://buytickets.at/bga23/980802){ : target="_blank" .md-button .md-button--primary }<br/>13 Sep 09:00-11:00 |
 | Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){: target="_blank"} | Nuala O'Leary | [Register](https://buytickets.at/bga23/973214){ : target="_blank" .md-button .md-button--primary }<br/>14 Sep 17:00-18:00 | 
 | Compare whole genome assembly alignments using NCBI’s [Comparative Genome Viewer (CGV)](https://www.ncbi.nlm.nih.gov/genome/cgv){: target="_blank"} | Sanjida Rangwala | [Register](https://buytickets.at/bga23/973216){ : target="_blank" .md-button .md-button--primary }<br/>14 Sep 18:00-19:00 |
-| Introduction to Manual Curation - HiC and JBrowse | Genome Reference Informatics Team, Sanger | [Join waitlist](https://buytickets.at/bga23/973204){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 11:00-13:00 |
+| Genome profiling using [Genomescope](https://github.com/tbenavi1/genomescope2.0){: target="_blank"} | Lucia Campos and Kamil Jaron | [Register](https://buytickets.at/bga23/981915){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 09:00-11:00 |
+| Introduction to Manual Curation - HiC and JBrowse | Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973204){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 11:00-13:00<br/>19 Sep 11:00-13:00 |
 | Introduction to NextFlow for Genomics | Solenne Correard | [Join waitlist](https://buytickets.at/bga23/973982){ : target="_blank" .md-button .md-button--primary }<br/>19 Sep 19:00-21:00 |
 | [BUSCO](https://busco.ezlab.org/){: target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse | [Join waitlist](https://buytickets.at/bga23/973174){ : target="_blank" .md-button .md-button--primary }<br/>20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){: target="_blank"} | Tobias Baril | [Join waitlist](https://buytickets.at/bga23/973218){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 12:00-14:00 |
