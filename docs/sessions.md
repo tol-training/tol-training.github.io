@@ -17,12 +17,17 @@ If there are 2 time slots available for a session, pick the one you can attend m
 !!! info "**2023-08-11 Update**"
     We are notifying waitlisted participants today by email on how to book extra slots. If you have a confirmed slot already that you can no longer attend, please email tol-training at sanger.ac.uk with your order details so we can free up your slot for other waitlisted participants. Thank you!
 
+    New sessions added/changed:
+
+    - "Introduction to manual curation - Treeval" renamed to "Setting up the Treeval pipeline for generating evidence for manual curation", and a new session added 18 Sep 11:00-13:00
+    - "Starting a comparative genome study from [CNGBdb](https://db.cngb.org/){: target="_blank"}: datasets, analysis platform, and spatial transcriptomics database" 13 Sep 09:00-11:00
+
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>4 Sep 20:00-21:00 |
 | Querying genome metadata and sequencing projects using [GoaT](https://goat.genomehubs.org){: target="_blank"} | Cibele Sotero-Caio | [Register](https://buytickets.at/bga23/973002){ : target="_blank" .md-button .md-button--primary }<br/>6 Sep 16:00-18:00 |
-| Introduction to Manual Curation - [TreeVal](https://github.com/sanger-tol/treeval){: target="_blank"} | Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00 |
+| Setting up the [TreeVal Pipeline](https://github.com/sanger-tol/treeval){: target="_blank"} for generating evidence for manual curation| Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00<br/>18 Sep 11:00-13:00 |
 | Assembling Mitogenomes from PacBio HiFi reads using [MitoHiFi](https://github.com/marcelauliano/MitoHiFi){: target="_blank"} | Marcela Uliano-Silva | [Register](https://buytickets.at/bga23/973171){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 13:00-15:00 | 
 | Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} locally | Sujai Kumar | [Register](https://buytickets.at/bga23/973213){ : target="_blank" .md-button .md-button--primary }<br/>11 Sep 08:00-09:00<br/>11 Sep 20:00-21:00 |
 | Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){: target="_blank"} | Kamil Jaron | [Register](https://buytickets.at/bga23/973117){ : target="_blank" .md-button .md-button--primary }<br/>12 Sep 14:00-16:00 |
