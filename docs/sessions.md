@@ -14,14 +14,18 @@ If there are 2 time slots available for a session, pick the one you can attend m
 !!! info "**2023-08-07 Update**"
     The response to BGA23 has been OVERWHELMING! Thank you 🙏 **691 booked, 424 waitlisted** 🤯 Please keep signing up below as we are working with session leaders to add more slots (adding sessions, increasing slots per session, offering recordings with discord discussions, etc). Booked out sessions have a "Join Waitlist" button. Also do **[subscribe/follow](signup.md)** to be the first to be informed when slots open.
 
+!!! info "**2023-08-11 Update**"
+    We are notifying waitlisted participants today by email on how to book extra slots. If you have a confirmed slot already that you can no longer attend, please email tol-training at sanger.ac.uk with your order details so we can free up your slot for other waitlisted participants. Thank you!
+
+
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>4 Sep 20:00-21:00 |
-| Querying genome metadata and sequencing projects using [GoaT](https://goat.genomehubs.org){: target="_blank"} | Cibele Sotero-Caio | [Join waitlist](https://buytickets.at/bga23/973002){ : target="_blank" .md-button .md-button--primary }<br/>6 Sep 16:00-18:00 |
-| Introduction to Manual Curation - [TreeVal](https://github.com/sanger-tol/treeval){: target="_blank"} | Genome Reference Informatics Team, Sanger | [Join waitlist](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00 |
-| Assembling Mitogenomes from PacBio HiFi reads using [MitoHiFi](https://github.com/marcelauliano/MitoHiFi){: target="_blank"} | Marcela Uliano-Silva | [Join waitlist](https://buytickets.at/bga23/973171){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 13:00-15:00 | 
+| Querying genome metadata and sequencing projects using [GoaT](https://goat.genomehubs.org){: target="_blank"} | Cibele Sotero-Caio | [Register](https://buytickets.at/bga23/973002){ : target="_blank" .md-button .md-button--primary }<br/>6 Sep 16:00-18:00 |
+| Introduction to Manual Curation - [TreeVal](https://github.com/sanger-tol/treeval){: target="_blank"} | Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00 |
+| Assembling Mitogenomes from PacBio HiFi reads using [MitoHiFi](https://github.com/marcelauliano/MitoHiFi){: target="_blank"} | Marcela Uliano-Silva | [Register](https://buytickets.at/bga23/973171){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 13:00-15:00 | 
 | Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} locally | Sujai Kumar | [Register](https://buytickets.at/bga23/973213){ : target="_blank" .md-button .md-button--primary }<br/>11 Sep 08:00-09:00<br/>11 Sep 20:00-21:00 |
-| Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){: target="_blank"} | Kamil Jaron | [Join waitlist](https://buytickets.at/bga23/973117){ : target="_blank" .md-button .md-button--primary }<br/>12 Sep 14:00-16:00 |
+| Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){: target="_blank"} | Kamil Jaron | [Register](https://buytickets.at/bga23/973117){ : target="_blank" .md-button .md-button--primary }<br/>12 Sep 14:00-16:00 |
 | Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){: target="_blank"} | Nuala O'Leary | [Join waitlist](https://buytickets.at/bga23/973214){ : target="_blank" .md-button .md-button--primary }<br/>14 Sep 17:00-18:00 | 
 | Compare whole genome assembly alignments using NCBI’s [Comparative Genome Viewer (CGV)](https://www.ncbi.nlm.nih.gov/genome/cgv){: target="_blank"} | Sanjida Rangwala | [Join waitlist](https://buytickets.at/bga23/973216){ : target="_blank" .md-button .md-button--primary }<br/>14 Sep 18:00-19:00 |
 | Introduction to Manual Curation - HiC and JBrowse | Genome Reference Informatics Team, Sanger | [Join waitlist](https://buytickets.at/bga23/973204){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 11:00-13:00 |
