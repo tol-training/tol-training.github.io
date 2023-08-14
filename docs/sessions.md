@@ -30,6 +30,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 !!! info "**2023-08-14 Update**"
     Session leaders have very kindly offered webinar slots (view only + text discussions) for:
 
+    - Assembling Genomes with the VGP-Galaxy Pipeline
     - Classifying Transposable Elements with Earl Grey TE
     - Assess genome assemblies with Merqury
     - Annotating genomes the Ensembl way - General concepts + Case study
