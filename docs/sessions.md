@@ -26,7 +26,15 @@ If there are 2 time slots available for a session, pick the one you can attend m
     - "Introduction to Manual Curation - HiC and JBrowse" new session added 19 Sep 11:00-13:00
     - "Introduction to NextFlow for Genomics" two new sessions added 20 Sep 23:00-01:00, and 26 Sep 16:00-18:00
     - "[EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation" new session added 29 Sep 03:00-05:00
-    
+
+!!! info "**2023-08-14 Update**"
+    Session leaders have very kindly offered webinar slots (view only + text discussions) for:
+
+    - Classifying Transposable Elements with Earl Grey TE
+    - Assess genome assemblies with Merqury
+    - Annotating genomes the Ensembl way - General concepts + Case study
+    - Annotating genomes the Ensembl way: Hands on - From RNAseq reads to gene models
+
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>4 Sep 20:00-21:00 |
@@ -41,18 +49,18 @@ If there are 2 time slots available for a session, pick the one you can attend m
 | Genome profiling using [Genomescope](https://github.com/tbenavi1/genomescope2.0){: target="_blank"} | Lucía Campos-Domínguez and Kamil Jaron | [Register](https://buytickets.at/bga23/981915){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 09:00-11:00 |
 | Introduction to Manual Curation - HiC and JBrowse | Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973204){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 11:00-13:00<br/>19 Sep 11:00-13:00 |
 | [OMA](https://omabrowser.org/oma/home/){: target="_blank"} and [OMArk](https://omark.omabrowser.org/){: target="_blank"} for homology exploration and gene annotation quality control | Yannis Nevers and Sina Majidian | [Register](https://buytickets.at/bga23/981722){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 16:00-18:00 |
-| Introduction to NextFlow for Genomics | Solenne Correard | [Join waitlist](https://buytickets.at/bga23/973982){ : target="_blank" .md-button .md-button--primary }<br/>19 Sep 19:00-21:00<br/>20 Sep 23:00-01:00<br/>26 Sep 16:00-18:00 |
+| Introduction to NextFlow for Genomics | Solenne Correard | [Register](https://buytickets.at/bga23/973982){ : target="_blank" .md-button .md-button--primary }<br/>19 Sep 19:00-21:00<br/>20 Sep 23:00-01:00<br/>26 Sep 16:00-18:00 |
 | [BUSCO](https://busco.ezlab.org/){: target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse | [Register](https://buytickets.at/bga23/973174){ : target="_blank" .md-button .md-button--primary }<br/>20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
-| Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){: target="_blank"} | Tobias Baril | [Join waitlist](https://buytickets.at/bga23/973218){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 12:00-14:00 |
-| Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){: target="_blank"} | Delphine Lariviere | [Join waitlist](https://buytickets.at/bga23/973190){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 17:00-19:00 |
+| Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){: target="_blank"} | Tobias Baril | [Register](https://buytickets.at/bga23/973218){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 12:00-14:00 |
+| Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){: target="_blank"} | Delphine Lariviere | [Register](https://buytickets.at/bga23/973190){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 17:00-19:00 |
 | [Gfastar](https://github.com/vgl-hub/gfastar): a tool suite to assist genome assembly | Giulio Formenti and Cassidy Johnson | [Register](https://buytickets.at/bga23/973193){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 14:00-16:00 |
 | Scalable telomere-to-telomere assembly with [hifiasm](https://github.com/chhylp123/hifiasm){: target="_blank"} | Haoyu Cheng | [Register](https://buytickets.at/bga23/975629){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 17:00-18:00 |
 | ENA Standards and Submission | Maira Ihsan | [Register](https://buytickets.at/bga23/973225){ : target="_blank" .md-button .md-button--primary }<br/>25 Sep 09:00-11:00<br/>26 Sep 18:00-20:00 |
 | ENA data retrieval and EMBL-EBI's Biodiversity Portals | Alexey Sokolov | [Register](https://buytickets.at/bga23/973223){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 09:00-10:00<br/>27 Sep 18:00-19:00 |
-| Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){: target="_blank"} | Arang Rhie | [Join waitlist](https://buytickets.at/bga23/973198){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 |
+| Assess genome assemblies with [Merqury](https://github.com/marbl/merqury){: target="_blank"} | Arang Rhie | [Register](https://buytickets.at/bga23/973198){ : target="_blank" .md-button .md-button--primary }<br/>26 Sep 12:00-14:00<br/>28 Sep 20:00-22:00 |
 | [EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation | Jill Wegrzyn and Cynthia Webster | [Register](https://buytickets.at/bga23/975736){ : target="_blank" .md-button .md-button--primary }<br/>27 Sep 13:00-15:00<br/>29 Sep 03:00-05:00 |
-| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way: General Concepts and Background + A Case study: Annotating Fungal Genomes - The Challenges! | Leanne Haggerty | [Join waitlist](https://buytickets.at/bga23/976019){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 12:00-14:00 |
-| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way: Hands-on - From RNAseq reads to gene models | José G Pérez-Silva | [Join waitlist](https://buytickets.at/bga23/976020){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 14:00-16:00 |
+| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way: General Concepts and Background + A Case study: Annotating Fungal Genomes - The Challenges! | Leanne Haggerty | [Register](https://buytickets.at/bga23/976019){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 12:00-14:00 |
+| Annotating genomes the [Ensembl](https://rapid.ensembl.org/info/genome/genebuild/index.html){: target="_blank"} way: Hands-on - From RNAseq reads to gene models | José G Pérez-Silva | [Register](https://buytickets.at/bga23/976020){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 14:00-16:00 |
 
 ## Proposed Sessions
 
