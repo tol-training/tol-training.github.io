@@ -28,13 +28,17 @@ If there are 2 time slots available for a session, pick the one you can attend m
     - "[EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation" new session added 29 Sep 03:00-05:00
 
 !!! info "**2023-08-14 Update**"
-    Session leaders have very kindly offered webinar slots (view only + text discussions) for:
+    We are up to **1167 sign ups and 793 waitlisted slots**!
+    
+    Seeing the huge demand, some session leaders have very kindly offered webinar slots (view only + text discussions) for:
 
     - Assembling Genomes with the VGP-Galaxy Pipeline
     - Classifying Transposable Elements with Earl Grey TE
     - Assess genome assemblies with Merqury
     - Annotating genomes the Ensembl way - General concepts + Case study
     - Annotating genomes the Ensembl way: Hands on - From RNAseq reads to gene models
+
+    If you signed up to a session waitlist after Friday 11 Aug, you will receive information on additional slots by the end of today.
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
