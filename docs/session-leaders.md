@@ -91,6 +91,8 @@ To try it out:
 
 The longest time in any hands-on bioinformatics training/demo session is often installing software, or even getting people to ssh into custom servers which takes some set up - and is not as useful to the end users because it may not reflect their lack of root access on an HPC/workstation set up. The advantage with gitpod is that people can start the session right away in a browser, AND they can see all the steps that were used to set up the machine. I try to do everything in user space without requiring root access (though of course gitpod machines allow you to be root), so that participants can copy the instructions for installing software on a cluster
 
+The other big advantage is that we don't have to set up the accounts / logins. ANYONE with a Github account can sign up and get 50 hours of free running time on their servers, which should be more than enough for 25 training sessions.
+
 I will be on hand to create a .gitpod.yml for your session, which you are obviously free to use in all future training materials as well.
 
 #### 4. Repeat session - IN PROGRESS
