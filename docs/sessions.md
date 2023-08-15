@@ -11,10 +11,10 @@ Detailed session contents will be added over time at this site. Instructions for
 
 If there are 2 time slots available for a session, pick the one you can attend more conveniently [in your time zone](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20230915&p1=224&p2=41&p3=45&p4=4&p5=37&p6=170&p7=176&p8=33&p9=240&p10=22){: target="_blank"}.
 
-!!! info "**2023-08-07 Update**"
+??? info "**2023-08-07 Update**" (Click to Expand)
     The response to BGA23 has been OVERWHELMING! Thank you 🙏 **691 booked, 424 waitlisted** 🤯 Please keep signing up below as we are working with session leaders to add more slots (adding sessions, increasing slots per session, offering recordings with discord discussions, etc). Booked out sessions have a "Join Waitlist" button. Also do **[subscribe/follow](signup.md)** to be the first to be informed when slots open.
 
-!!! info "**2023-08-11 Update**"
+??? info "**2023-08-11 Update**"  (Click to Expand)
     We are notifying waitlisted participants today by email on how to book extra slots. If you have a confirmed slot already that you can no longer attend, please email tol-training at sanger.ac.uk with your order details so we can free up your slot for other waitlisted participants. Thank you!
 
     Sessions added/changed:
