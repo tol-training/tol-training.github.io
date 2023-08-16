@@ -27,7 +27,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
     - "Introduction to NextFlow for Genomics" two new sessions added 20 Sep 23:00-01:00, and 26 Sep 16:00-18:00
     - "[EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation" new session added 29 Sep 03:00-05:00
 
-!!! info "**2023-08-14 Update**"
+??? info "**2023-08-14 Update** (Click to Expand)"
     We are up to **1167 sign ups and 793 waitlisted slots**!
     
     Seeing the huge demand, some session leaders have very kindly offered webinar slots (view only + text discussions) for:
@@ -39,6 +39,13 @@ If there are 2 time slots available for a session, pick the one you can attend m
     - Annotating genomes the Ensembl way: Hands on - From RNAseq reads to gene models
 
     If you signed up to a session waitlist after Friday 11 Aug, you will receive information on additional slots by the end of today.
+
+!!! info "**2023-08-16 Update**"
+    We are up to **1475 sign ups and 1018 waitlisted slots**!
+
+    All waitlisted slots as of 4pm UTC should have received information about additional slots. After this point, the only free slots are likely to be from cancellations. A couple of new topics may be added, but no additional slots are likely to be opened for existing topics.
+
+    To be fair to everyone, we will be asking everyone to confirm attendance for each session by next week, so please keep an eye out for those emails.
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
