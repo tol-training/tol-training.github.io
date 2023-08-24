@@ -9,6 +9,7 @@ nav:
     - sessions.md
     - faq.md
     - signup.md
+    - conduct.md
 
 theme:
     name: material
