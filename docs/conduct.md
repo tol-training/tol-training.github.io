@@ -5,7 +5,7 @@ description: Code of Conduct for Biodiversity Genomics Academy
 
 ## Why We Have a code
 
-Our goal is for Biodiversity Genomics Academy 2023 (BGA23)to embody the best of
+Our goal is for the Biodiversity Genomics 2023 conference (BG23) and Biodiversity Genomics Academy 2023 (BGA23) to embody the best of
 our aspirations towards building a diverse and inclusive global
 genomics community. We wish to foster a culture of diverse and
 inclusive scientific excellence in which persons of all identities and
@@ -16,10 +16,10 @@ preserve this culture.
  
 ## Who is Covered Under the Code
 
-We value the participation of every member of our community at
+We value the participation of every member of our community at BG23 and
 BGA23. Thus, this Code of Conduct extends to all communications
 related to the meeting and its attendees,
-presenters, participants, organizers, including livestreamed
+presenters, participants, organizers, and exhibitors/sponsors, including livestreamed
 scientific talks, session Q&A, chats, emails,
 group discussions, online meetings, and messaging.
  
