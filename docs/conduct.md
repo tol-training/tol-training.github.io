@@ -72,7 +72,7 @@ threats, bullying, and personal attacks
 
 ### 3. Report Concerns
 
-We encourage all participants to raise concerns as soon as possible for any experienced or witnessed behaviors that do not align with these expectations. Please contact tol-training att sanger dott ac dott uk to report Code of Conduct violations or concerns.
+We encourage all participants to raise concerns as soon as possible for any experienced or witnessed behaviors that do not align with these expectations. Please contact **tol-training \[at\] sanger \[dot\] ac \[dot\] uk** to report Code of Conduct violations or concerns.
 
 In response to reports of perceived violations of expectations, the Biodiversity Genomics 2023 team will promptly investigate and take any appropriate corrective action. Reports will be kept confidential to the extent possible, however complete confidentiality is not
 guaranteed.
