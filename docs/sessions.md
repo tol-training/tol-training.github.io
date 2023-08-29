@@ -40,31 +40,41 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     If you signed up to a session waitlist after Friday 11 Aug, you will receive information on additional slots by the end of today.
 
-!!! info "**2023-08-16 Update**"
+??? info "**2023-08-16 Update** (Click to Expand)"
     We are up to **1475 sign ups and 1018 waitlisted slots**!
 
     All waitlisted slots as of 4pm UTC should have received information about additional slots. After this point, the only free slots are likely to be from cancellations. A couple of new topics may be added, but no additional slots are likely to be opened for existing topics.
 
     To be fair to everyone, we will be asking everyone to confirm attendance for each session by next week, so please keep an eye out for those emails.
 
+!!! info "**2023-08-25 Update**"
+    We are up to **1680 sign ups and 1273 waitlisted slots**!
+
+    Sessions added/changed:
+
+    - "Gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER){: target="_blank"}" - new sessions added 22 Sep 08:00-10:00 and 25 Sep 12:00-14:00
+    - "[OMA](https://omabrowser.org/oma/home/){: target="_blank"} and [OMArk](https://omark.omabrowser.org/){: target="_blank"} for homology exploration and gene annotation quality control" new session added 21 Sep 08:00-10:00
+
+
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
 | Checking for cobionts in public genomes using [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>4 Sep 20:00-21:00 |
 | Querying genome metadata and sequencing projects using [GoaT](https://goat.genomehubs.org){: target="_blank"} | Cibele Sotero-Caio | [Register](https://buytickets.at/bga23/973002){ : target="_blank" .md-button .md-button--primary }<br/>6 Sep 16:00-18:00 |
-| Setting up the [TreeVal Pipeline](https://github.com/sanger-tol/treeval){: target="_blank"} for generating evidence for manual curation| Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00<br/>18 Sep 11:00-13:00 |
+| The [TreeVal Pipeline](https://github.com/sanger-tol/treeval){: target="_blank"}: Generating evidence for manual curation| Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00<br/>18 Sep 11:00-13:00 |
 | Assembling Mitogenomes from PacBio HiFi reads using [MitoHiFi](https://github.com/marcelauliano/MitoHiFi){: target="_blank"} | Marcela Uliano-Silva | [Register](https://buytickets.at/bga23/973171){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 13:00-15:00 | 
 | Visualising genome assembly cobionts by running [BlobToolKit](https://blobtoolkit.genomehubs.org/view){: target="_blank"} locally | Sujai Kumar | [Register](https://buytickets.at/bga23/973213){ : target="_blank" .md-button .md-button--primary }<br/>11 Sep 08:00-09:00<br/>11 Sep 20:00-21:00 |
-| Understanding k-mers and ploidy using [Smudgeplots](https://github.com/KamilSJaron/smudgeplot){: target="_blank"} | Kamil Jaron | [Register](https://buytickets.at/bga23/973117){ : target="_blank" .md-button .md-button--primary }<br/>12 Sep 14:00-16:00 |
+| Understanding k-mers and ploidy using [Smudgeplot](https://github.com/KamilSJaron/smudgeplot){: target="_blank"} | Kamil Jaron | [Register](https://buytickets.at/bga23/973117){ : target="_blank" .md-button .md-button--primary }<br/>12 Sep 14:00-16:00 |
 | Starting a comparative genome study from [CNGBdb](https://db.cngb.org/){: target="_blank"}: datasets, analysis platform, and spatial transcriptomics database  | Xiaofeng Wei, Huanming Yang, Xin Liu | [Register](https://buytickets.at/bga23/980802){ : target="_blank" .md-button .md-button--primary }<br/>13 Sep 09:00-11:00 |
 | Searching and Downloading Genome Data using [NCBI Datasets](https://www.ncbi.nlm.nih.gov/datasets/){: target="_blank"} | Nuala O'Leary | [Register](https://buytickets.at/bga23/973214){ : target="_blank" .md-button .md-button--primary }<br/>14 Sep 17:00-18:00 | 
 | Compare whole genome assembly alignments using NCBI’s [Comparative Genome Viewer (CGV)](https://www.ncbi.nlm.nih.gov/genome/cgv){: target="_blank"} | Sanjida Rangwala | [Register](https://buytickets.at/bga23/973216){ : target="_blank" .md-button .md-button--primary }<br/>14 Sep 18:00-19:00 |
 | Genome profiling using [Genomescope](https://github.com/tbenavi1/genomescope2.0){: target="_blank"} | Lucía Campos-Domínguez and Kamil Jaron | [Register](https://buytickets.at/bga23/981915){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 09:00-11:00 |
 | Introduction to Manual Curation - HiC and JBrowse | Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973204){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 11:00-13:00<br/>19 Sep 11:00-13:00 |
-| [OMA](https://omabrowser.org/oma/home/){: target="_blank"} and [OMArk](https://omark.omabrowser.org/){: target="_blank"} for homology exploration and gene annotation quality control | Yannis Nevers and Sina Majidian | [Register](https://buytickets.at/bga23/981722){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 16:00-18:00 |
+| [OMA](https://omabrowser.org/oma/home/){: target="_blank"} and [OMArk](https://omark.omabrowser.org/){: target="_blank"} for homology exploration and gene annotation quality control | Yannis Nevers and Sina Majidian | [Register](https://buytickets.at/bga23/981722){ : target="_blank" .md-button .md-button--primary }<br/>15 Sep 16:00-18:00<br/>21 Sep 08:00-10:00 |
 | Introduction to NextFlow for Genomics | Solenne Correard | [Register](https://buytickets.at/bga23/973982){ : target="_blank" .md-button .md-button--primary }<br/>19 Sep 19:00-21:00<br/>20 Sep 23:00-01:00<br/>26 Sep 16:00-18:00 |
 | [BUSCO](https://busco.ezlab.org/){: target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse | [Register](https://buytickets.at/bga23/973174){ : target="_blank" .md-button .md-button--primary }<br/>20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){: target="_blank"} | Tobias Baril | [Register](https://buytickets.at/bga23/973218){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 12:00-14:00 |
 | Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){: target="_blank"} | Delphine Lariviere | [Register](https://buytickets.at/bga23/973190){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 17:00-19:00 |
+| Gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER){: target="_blank"} | Katharina Hoff | [Register](){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 08:00-10:00<br/>25 Sep 12:00-14:00 |
 | [Gfastar](https://github.com/vgl-hub/gfastar): a tool suite to assist genome assembly | Giulio Formenti and Cassidy Johnson | [Register](https://buytickets.at/bga23/973193){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 14:00-16:00 |
 | Scalable telomere-to-telomere assembly with [hifiasm](https://github.com/chhylp123/hifiasm){: target="_blank"} | Haoyu Cheng | [Register](https://buytickets.at/bga23/975629){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 17:00-18:00 |
 | ENA Standards and Submission | Maira Ihsan | [Register](https://buytickets.at/bga23/973225){ : target="_blank" .md-button .md-button--primary }<br/>25 Sep 09:00-11:00<br/>26 Sep 18:00-20:00 |
