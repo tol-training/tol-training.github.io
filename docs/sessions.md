@@ -11,10 +11,10 @@ Detailed session contents will be added over time at this site. Instructions for
 
 If there are 2 time slots available for a session, pick the one you can attend more conveniently [in your time zone](https://www.timeanddate.com/worldclock/meetingtime.html?iso=20230915&p1=224&p2=41&p3=45&p4=4&p5=37&p6=170&p7=176&p8=33&p9=240&p10=22){: target="_blank"}.
 
-??? info "**2023-08-07 Update** (Click to Expand)"
+??? info "**2023-08-07 Update**"
     The response to BGA23 has been OVERWHELMING! Thank you 🙏 **691 booked, 424 waitlisted** 🤯 Please keep signing up below as we are working with session leaders to add more slots (adding sessions, increasing slots per session, offering recordings with discord discussions, etc). Booked out sessions have a "Join Waitlist" button. Also do **[subscribe/follow](signup.md)** to be the first to be informed when slots open.
 
-??? info "**2023-08-11 Update** (Click to Expand)"
+??? info "**2023-08-11 Update**"
     We are notifying waitlisted participants today by email on how to book extra slots. If you have a confirmed slot already that you can no longer attend, please email tol-training at sanger.ac.uk with your order details so we can free up your slot for other waitlisted participants. Thank you!
 
     Sessions added/changed:
@@ -27,7 +27,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
     - "Introduction to NextFlow for Genomics" two new sessions added 20 Sep 23:00-01:00, and 26 Sep 16:00-18:00
     - "[EASEL](https://gitlab.com/PlantGenomicsLab/easel){: target="_blank"} (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation" new session added 29 Sep 03:00-05:00
 
-??? info "**2023-08-14 Update** (Click to Expand)"
+??? info "**2023-08-14 Update**"
     We are up to **1167 sign ups and 793 waitlisted slots**!
     
     Seeing the huge demand, some session leaders have very kindly offered webinar slots (view only + text discussions) for:
@@ -40,7 +40,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     If you signed up to a session waitlist after Friday 11 Aug, you will receive information on additional slots by the end of today.
 
-??? info "**2023-08-16 Update** (Click to Expand)"
+??? info "**2023-08-16 Update**"
     We are up to **1475 sign ups and 1018 waitlisted slots**!
 
     All waitlisted slots as of 4pm UTC should have received information about additional slots. After this point, the only free slots are likely to be from cancellations. A couple of new topics may be added, but no additional slots are likely to be opened for existing topics.
