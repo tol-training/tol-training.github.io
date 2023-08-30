@@ -62,7 +62,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     Sessions added/changed:
 
-    - "Pangenomic Assembly and Assessment using Minigraph and Bandage" new session added 21 Sep 20:00-22:00
+    - "Pangenome Assembly and Assessment using Minigraph and Bandage" new session added 21 Sep 20:00-22:00
 
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
@@ -83,7 +83,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 | [BUSCO](https://busco.ezlab.org/){: target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse | [Register](https://buytickets.at/bga23/973174){ : target="_blank" .md-button .md-button--primary }<br/>20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){: target="_blank"} | Tobias Baril | [Register](https://buytickets.at/bga23/973218){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 12:00-14:00 |
 | Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){: target="_blank"} | Delphine Lariviere | [Register](https://buytickets.at/bga23/973190){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 17:00-19:00 |
-| Pangenomic Assembly and Assessment using Minigraph and Bandage | Zachary Cohen | [Register](https://buytickets.at/bga23/997151){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 20:00-22:00 |
+| Pangenome Assembly and Assessment using Minigraph and Bandage | Zachary Cohen | [Register](https://buytickets.at/bga23/997151){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 20:00-22:00 |
 | Gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER){: target="_blank"} | Katharina Hoff | [Register](https://buytickets.at/bga23/990880){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 08:00-10:00<br/>25 Sep 12:00-14:00 |
 | [Gfastar](https://github.com/vgl-hub/gfastar): a tool suite to assist genome assembly | Giulio Formenti and Cassidy Johnson | [Register](https://buytickets.at/bga23/973193){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 14:00-16:00 |
 | Scalable telomere-to-telomere assembly with [hifiasm](https://github.com/chhylp123/hifiasm){: target="_blank"} | Haoyu Cheng | [Register](https://buytickets.at/bga23/975629){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 17:00-18:00 |
