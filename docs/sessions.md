@@ -47,13 +47,22 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     To be fair to everyone, we will be asking everyone to confirm attendance for each session by next week, so please keep an eye out for those emails.
 
-!!! info "**2023-08-25 Update**"
+??? info "**2023-08-25 Update**"
     We are up to **1680 sign ups and 1273 waitlisted slots**!
 
     Sessions added/changed:
 
     - "Gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER){: target="_blank"}" - new sessions added 22 Sep 08:00-10:00 and 25 Sep 12:00-14:00
     - "[OMA](https://omabrowser.org/oma/home/){: target="_blank"} and [OMArk](https://omark.omabrowser.org/){: target="_blank"} for homology exploration and gene annotation quality control" new session added 21 Sep 08:00-10:00
+
+!!! info "**2023-08-30 Update**"
+    We are up to **1807 sign ups and 1401 waitlisted slots**!
+
+    Waitlist slots are now closed for week 1. If you are registered for a week 1 (Sep 4-8) session, you should have received a confirmation email by now. You MUST confirm your registration by 31st August 23:59 UTC/GMT otherwise we'll be releasing your slots to the (very long) waitlists...
+
+    Sessions added/changed:
+
+    - "Pangenomic Assembly and Assessment using Minigraph and Bandage" new session added 21 Sep 20:00-22:00
 
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
@@ -74,6 +83,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 | [BUSCO](https://busco.ezlab.org/){: target="_blank"} - from QC to gene prediction and phylogenomics | Rob Waterhouse | [Register](https://buytickets.at/bga23/973174){ : target="_blank" .md-button .md-button--primary }<br/>20 Sep 08:00-10:00<br/>20 Sep 17:00-19:00 |
 | Classifying Transposable Elements with [Earl Grey TE](https://github.com/TobyBaril/EarlGrey){: target="_blank"} | Tobias Baril | [Register](https://buytickets.at/bga23/973218){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 12:00-14:00 |
 | Assembling Genomes with the [VGP-Galaxy Pipeline](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html){: target="_blank"} | Delphine Lariviere | [Register](https://buytickets.at/bga23/973190){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 17:00-19:00 |
+| Pangenomic Assembly and Assessment using Minigraph and Bandage | Zachary Cohen | [Register](https://buytickets.at/bga23/997151){ : target="_blank" .md-button .md-button--primary }<br/>21 Sep 20:00-22:00 |
 | Gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER){: target="_blank"} | Katharina Hoff | [Register](https://buytickets.at/bga23/990880){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 08:00-10:00<br/>25 Sep 12:00-14:00 |
 | [Gfastar](https://github.com/vgl-hub/gfastar): a tool suite to assist genome assembly | Giulio Formenti and Cassidy Johnson | [Register](https://buytickets.at/bga23/973193){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 14:00-16:00 |
 | Scalable telomere-to-telomere assembly with [hifiasm](https://github.com/chhylp123/hifiasm){: target="_blank"} | Haoyu Cheng | [Register](https://buytickets.at/bga23/975629){ : target="_blank" .md-button .md-button--primary }<br/>22 Sep 17:00-18:00 |
@@ -95,17 +105,10 @@ This is not an exhaustive list, so any other related topics are also welcome. If
 | Introduction to HiFi data (theory and practice) |
 | Introduction to Hi-C data (theory and practice) |
 | Introduction to Nanopore data (theory and practice) |
-| Introduction to NextFlow for genomics |
 | Quality control of raw genomic data |
 | VGP Raw data QC toolkit in Galaxy |
-| VGP Primary assembly toolkit in Galaxy |
 | Purging haplotypic duplication from assemblies (theory and practice) |
-| Understanding genome characteristics using GenomeScope 2.0 |
-| OMA and OMARK for genome completeness exploration |
-| Assembly with HiFiASM: “normal”, “Hi-C” and metagenome modes |
 | YAHS and Hi-C scaffolding |
-| Using Bandage to explore assembly graphs |
-| Genefinding with BRAKER3 |
 | Verkko: telomere-to-telomere assembly of diploid chromosomes |
 | Using OrthoFinder to find orthologs across genomes |
 | Aligning whole genomes using Cactus |
