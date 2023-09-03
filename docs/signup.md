@@ -7,6 +7,8 @@ Be the first to be informed as soon as **[new sessions](sessions.md)** and space
 
 [Subscribe](https://tinyletter.com/bgacademy23){ : target="_blank" .md-button .md-button--primary }
 
+Read previous emails at the **[BGA23 List Archive](https://tinyletter.com/bgacademy23/archive){ : target="_blank" }**.
+
 Connect with us, our session leads and other attendees on our socials:
 
 :fontawesome-brands-twitter: [twitter.com/BGAcademy23](https://twitter.com/BGAcademy23){: target="_blank"}
