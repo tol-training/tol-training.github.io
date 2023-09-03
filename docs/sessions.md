@@ -58,7 +58,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 !!! info "**2023-08-30 Update**"
     We are up to **1807 sign ups and 1401 waitlisted slots**!
 
-    Waitlist slots are now closed for week 1. If you are registered for a week 1 (Sep 4-8) session, you should have received a confirmation email by now. You MUST confirm your registration by 31st August 23:59 UTC/GMT otherwise we'll be releasing your slots to the (very long) waitlists...
+    Waitlist slots are now closed for week 1. If you are registered for a Week 1 (Sep 4-8) session, you should have received a confirmation email by now. You MUST confirm your Week 1 registration by 31st August 23:59 UTC/GMT otherwise we'll be releasing your slots to the (very long) waitlists...
 
     Sessions added/changed:
 
