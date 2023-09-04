@@ -55,7 +55,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
     - "Gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER){: target="_blank"}" - new sessions added 22 Sep 08:00-10:00 and 25 Sep 12:00-14:00
     - "[OMA](https://omabrowser.org/oma/home/){: target="_blank"} and [OMArk](https://omark.omabrowser.org/){: target="_blank"} for homology exploration and gene annotation quality control" new session added 21 Sep 08:00-10:00
 
-!!! info "**2023-08-30 Update**"
+??? info "**2023-08-30 Update**"
     We are up to **1807 sign ups and 1401 waitlisted slots**!
 
     Waitlist slots are now closed for week 1. If you are registered for a Week 1 (Sep 4-8) session, you should have received a confirmation email by now. You MUST confirm your Week 1 registration by 31st August 23:59 UTC/GMT otherwise we'll be releasing your slots to the (very long) waitlists...
@@ -64,11 +64,18 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     - "Pangenome Assembly and Assessment using Minigraph and Bandage" new session added 21 Sep 20:00-22:00
 
+!!! info "**2023-09-04 Update**"
+    Thank you to everyone who attended the first session this morning and kicked off BGA23! Unfortunately (but luckily for the session attendees), five minutes after the session ended, the datacentre that hosts both [BlobToolKit](https://blobtoolkit.genomehubs.org) and [GoaT](https://goat.genomehubs.org) had a major cooling problem and all servers had to be shut down. We don't know when the servers will be back up, so we have postponed both sessions for now, and sent emails to all attendees.
+
+    - BlobToolKit: OLD TIME 4 Sep 20:00-21:00, **NEW TIME 11 Sep 17:00-18:00**
+    - GoaT: OLD TIME 6 Sep 16:00-18:00, **NEW TIME 25 Sep 15:00-17:00**
+
+    
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
-| [Checking for cobionts in public genomes using BlobToolKit](https://bga23.org/btk-view) | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>4 Sep 20:00-21:00 |
-| [Querying genome metadata and sequencing projects using GoaT](https://bga23.org/goat) | Cibele Sotero-Caio | [Register](https://buytickets.at/bga23/973002){ : target="_blank" .md-button .md-button--primary }<br/>6 Sep 16:00-18:00 |
+| [Checking for cobionts in public genomes using BlobToolKit](https://bga23.org/btk-view) | Sujai Kumar | [Register](https://buytickets.at/bga23/973209){ : target="_blank" .md-button .md-button--primary }<br/>4 Sep 08:00-09:00<br/>~~4 Sep 20:00-21:00~~<br/>11 Sep 17:00-18:00 |
+| [Querying genome metadata and sequencing projects using GoaT](https://bga23.org/goat) | Cibele Sotero-Caio | [Register](https://buytickets.at/bga23/973002){ : target="_blank" .md-button .md-button--primary }<br/>~~6 Sep 16:00-18:00~~<br/>25 Sep 15:00-17:00 |
 | [The TreeVal Pipeline: Generating evidence for manual curation](https://bga23.org/treeval-curation) | Genome Reference Informatics Team, Sanger | [Register](https://buytickets.at/bga23/973202){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 11:00-13:00<br/>18 Sep 11:00-13:00 |
 | [Assembling Mitogenomes from PacBio HiFi reads using MitoHiFi](https://bga23.org/MitoHiFi) | Marcela Uliano-Silva | [Register](https://buytickets.at/bga23/973171){ : target="_blank" .md-button .md-button--primary }<br/>8 Sep 13:00-15:00 | 
 | [Visualising genome assembly cobionts by running BlobToolKit locally](https://bga23.org/btk-cli) | Sujai Kumar | [Register](https://buytickets.at/bga23/973213){ : target="_blank" .md-button .md-button--primary }<br/>11 Sep 08:00-09:00<br/>11 Sep 20:00-21:00 |
