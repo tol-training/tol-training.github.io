@@ -67,9 +67,11 @@ If there are 2 time slots available for a session, pick the one you can attend m
 !!! info "**2023-09-04 Update**"
     Thank you to everyone who attended the first session this morning and kicked off BGA23! Unfortunately (but luckily for the session attendees), five minutes after the session ended, the datacentre that hosts both [BlobToolKit](https://blobtoolkit.genomehubs.org) and [GoaT](https://goat.genomehubs.org) had a major cooling problem and all servers had to be shut down. We don't know when the servers will be back up, so we have postponed both sessions for now, and sent emails to all attendees.
 
+    Sessions added/changed:
+
     - BlobToolKit: OLD TIME 4 Sep 20:00-21:00, **NEW TIME 11 Sep 17:00-18:00**
     - GoaT: OLD TIME 6 Sep 16:00-18:00, **NEW TIME 25 Sep 15:00-17:00**
-
+    - "Aligning whole genomes using Cactus" new session added 29 Sep 16:00-18:00
     
 
 | Title | Session Leader | Date and Time in UTC/GMT | 
@@ -100,6 +102,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 | [EASEL (Efficient, Accurate, Scalable Eukaryotic modeLs): software for eukaryotic structural and functional genome annotation](https://bga23.org/easel-annotation) | Jill Wegrzyn, Cynthia Webster, Vidya Vuruputoor, Karl Fetter | [Register](https://buytickets.at/bga23/975736){ : target="_blank" .md-button .md-button--primary }<br/>27 Sep 13:00-15:00<br/>29 Sep 03:00-05:00 |
 | [Annotating genomes the Ensembl way: General Concepts and Background + A Case study: Annotating Fungal Genomes - The Challenges!](https://bga23.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | [Register](https://buytickets.at/bga23/976019){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 12:00-14:00 |
 | [Annotating genomes the Ensembl way: Hands-on - From RNAseq reads to gene models](https://bga23.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | [Register](https://buytickets.at/bga23/976020){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 14:00-16:00 |
+| [Aligning whole genomes using Cactus](https://bga23.org/cactus) | Chiara Bortoluzzi, Thiago A.L. Genez | [Register](https://buytickets.at/bga23/1000909){ : target="_blank" .md-button .md-button--primary }<br/>29 Sep 16:00-18:00 |
 
 ## Proposed Sessions
 
