@@ -49,7 +49,7 @@ This page has been updated on 2023-09-10. Older information can be found [here](
     - If you have docker locally, you can test changes locally before pushing by running the following, and then visiting localhost:8000 in the browser:
     ```
     git clone https://github.com/bgacademy23/session-repo
-    cd template
+    cd session-repo
     docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
     ```
     - If you want to add any more pages, create them inside docs/ , eg
