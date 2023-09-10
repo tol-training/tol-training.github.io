@@ -104,6 +104,10 @@ If there are 2 time slots available for a session, pick the one you can attend m
 | [Annotating genomes the Ensembl way: Hands-on - From RNAseq reads to gene models](https://bga23.org/ensembl-annotation) | Leanne Haggerty, José G Pérez-Silva | [Register](https://buytickets.at/bga23/976020){ : target="_blank" .md-button .md-button--primary }<br/>28 Sep 14:00-16:00 |
 | [Aligning whole genomes using Cactus](https://bga23.org/cactus) | Chiara Bortoluzzi, Thiago A.L. Genez | [Register](https://buytickets.at/bga23/1000909){ : target="_blank" .md-button .md-button--primary }<br/>29 Sep 16:00-18:00 |
 
+## Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_3245e1d36d7e1691a2271096ff59250ec2a69763ad15aa05c63854d0f3856cb7%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Proposed Sessions
 
 In addition, we would like to host sessions on some of the following topics as well. So if you are a developer or an expert in any of these, and are willing to lead a session on any of the following, please contact [sujai.kumar@sanger.ac.uk](mailto:sujai.kumar@sanger.ac.uk) or the social media accounts in the footer below.
