@@ -9,6 +9,7 @@ nav:
     - sessions.md
     - faq.md
     - signup.md
+    - gitpod.md
     - conduct.md
 
 theme:

@@ -11,7 +11,7 @@ This page has been updated on 2023-09-10. Older information can be found [here](
 
 - The first BGA23 session (Mon 4 Sep 08:00 UTC) on BlobToolKit ran as expected, but 5 min after it ended, the datacentre that hosted [BlobToolKit](https://blobtoolkit.genomehubs.org){ : target="_blank" } and [GoaT](https://goat.genomehubs.org){ : target="_blank" } went down for 3 days. So we had to postpone the Mon and Wed sessions for these two resources till later in the month
 - The first two Gitpod sessions (Fri 8 Sep) on [Treeval](https://BGA23.org/treeval-curation) and [MitoHiFi](https://BGA23.org/MitoHiFi) went very well, with all participants able to launch and follow along with the Gitpod based examples and exercises.
-- We now have a total of 2216 initial bookings, 1650 waitlist signups, and over half of the initial sign ups have confirmed in a second form that they will participate - this is great news!
+- We now have a total of 2217 initial bookings, 1650 waitlist signups, and over half of the initial sign ups (1161) have confirmed in a second form that they will participate - this is great news!
 
 ## Reminder - Add your session materials to Github
 
