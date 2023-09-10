@@ -92,11 +92,8 @@ In case you're wondering, here's what the booking experience is like for a parti
 - Visit BGA23.org/sessions which redirects them to a tickettailor.com session page ([full list here](https://buytickets.at/bga23){ : target="_blank" })
 - Book an empty slot (if available). This counts as an initial booking. Else they put their email on a waitlist for that session
 - All initial bookings receive an invitation to confirm their booking by the deadline of the Thursday of the week before that session. This confirmation is a prefilled google form. If the session uses Gitpod, the form requires them to sign up for a Gitpod account and make sure it works before they can submit the form (you can try it out [here](https://docs.google.com/forms/d/e/1FAIpQLSeSoJ0mNImSBvg1mmtnaluQ_iRzCTnGJZV_GdZHxjIlFM9EPg/viewform?usp=pp_url&entry.873730893=Sujai+Kumar&entry.2000806590=sujaikumar@gmail.com&entry.115230335=Fri+15+Sep,+09:00+-+Genome+profiling+using+GenomeScope+-+https://BGA23.org/genomescope+-+GITPOD&entry.1835238055=Yes+I+want+to+attend+the+session){ : target="_blank" })
-- After Thursday, if all spaces for a session are not confirmed, then I invite all the waitlisted participants to also fill out the form and confirm participation.
+- After Thursday, if all spaces for a session are not confirmed, then I invite all the waitlisted participants to also fill out the form and confirm participation on a first come, first served basis.
 - Once they confirm participation, I send out the zoom link for that session to confirmed participants.
 - We did it in this two-stage way because a lot of people sign up for a session as it is free, but then realise they can't come, or are not interested based on the detailed description and prerequisites
 - This also gives us a chance to remind the participants to actually turn up for the sessions :-)
 - For sessions where the leaders have said they don't want to limit attendance, I send session details to EVERYone on the initial booking list and waitlist.
-
-
-
