@@ -15,7 +15,7 @@ This page has been updated on 2023-09-10. Older information can be found [here](
 
 ## Reminder - Add your session materials to Github
 
-- Please add your session materials to your Github session repository at [github.com/bgacademy23](https://github.com/orgs/BGAcademy23/repositories){ : target="_blank" }. The name of your session repo will be the same as the shortname you chose when filling out the session information form, and the same as the link to your session page at [sessions.md]
+- Please add your session materials to your Github session repository at [github.com/bgacademy23](https://github.com/orgs/BGAcademy23/repositories){ : target="_blank" }. The name of your session repo will be the same as the shortname you chose when filling out the session information form, and the same as the link to your session page at [BGA23.org/sessions](sessions.md).
 - If you don't have access, let me know and I'll send another admin invitation to your github username
 - Or just send me a link / text and I'll add that to your page
 - You don't have to use the Github repo to host your session materials (slides/tutorials), but I would like the starting point to be BGA23.org/session-repo, and have that link to wherever you want to store the materials (eg google slides, a PDF, another github repo, github wiki, etc)
