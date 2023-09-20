@@ -81,6 +81,8 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     **Please join Discord** at [discord.gg/XW97NyjR83](https://discord.gg/XW97NyjR83) as zoom chats will be disabled
 
+    **Session recordings at [youtube.com/@BGAcademy23](https://youtube.com/@bgacademy23)**. Some may take a day or two because YouTube takes time to provide an editable/edited version
+
 | Title | Session Leader | Date and Time in UTC/GMT | 
 |-------|----------------|--------------------------|
 | [Checking for cobionts in public genomes using BlobToolKit](https://bga23.org/btk-view) | Sujai Kumar | 4 Sep 08:00-09:00<br/>~~4 Sep 20:00-21:00~~<br/>11 Sep 17:00-18:00 |
