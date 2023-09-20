@@ -37,6 +37,6 @@ You don't need to know this next bit, but in case you're interested:
 
 - Each BGA23 session that uses Gitpod has its own Github repository
 - A file called .gitpod.yml in each session repository specifies how to configure a Gitpod workspace for that BGA23 session
-- To launch a Gitpod workspace, we use a link like `https://gitpod.io/#https://github.com/bgacademy23/MitoHiFi` which instructs Gitpod.io to create a workspace using the `.gitpod.yml` file present in `https://github.com/bgacademy23/MitoHiFi`
+- To launch a Gitpod workspace, we use a link like `https://gitpod.io/#https://github.com/bgacademy23/busco` which instructs Gitpod.io to create a workspace using the `.gitpod.yml` file present in `https://github.com/bgacademy23/busco`
 - You can launch ANY Github repository in Gitpod, even if it does not have a .gitpod.yml, i.e. you can put your own repository in the URL like this: `https://gitpod.io/#https://github.com/myorganisation/myrepository` . Gitpod also works for Gitlab and Bitbucket repositories
 - To learn how to create your own .gitpod.yml files, see the [.gitpod.yml documentation](https://www.gitpod.io/docs/references/gitpod-yml){ : target="_blank" }
