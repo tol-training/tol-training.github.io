@@ -77,9 +77,9 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
 !!! info "2023-09-20 Update"
 
-    **We're simplifying registration!** Click on the "Register" link to go straight to a confirmation form. If there are spaces, we will send you zoom details within 1 day.
-
     **Zoom Link** If there is a zoom link button - you can just click it to join. The date/time has an "Add to Calendar" link which will add the event to your own preferred calendar in your time zone with the zoom link
+
+    **We're simplifying registration!** If there is no zoom link, click on the "Register" link to go straight to a confirmation form. If there are spaces, we will send you zoom details within 1 day.
 
     **Please join Discord** at [discord.gg/XW97NyjR83](https://discord.gg/XW97NyjR83){ : target="_blank" } as zoom chats will be disabled
 
