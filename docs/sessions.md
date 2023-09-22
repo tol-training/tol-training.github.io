@@ -121,9 +121,9 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
 ## Proposed Sessions
 
-In addition, we would like to host sessions on some of the following topics as well. So if you are a developer or an expert in any of these, and are willing to lead a session on any of the following, please contact [sujai.kumar@sanger.ac.uk](mailto:sujai.kumar@sanger.ac.uk) or the social media accounts in the footer below.
+Planning for Biodiversity Genomics Academy is over for this year.
 
-This is not an exhaustive list, so any other related topics are also welcome. If there are enough volunteers we will continue the sessions outside the Biodiversity Genomics conference schedule beyond September as well.
+However, the need for these types of sessions will not go away. If you want to volunteer to present future sessions like the ones above, or the proposed sessions below, or any others, please email contact [at] bga23.org.
 
 | Topic |
 |-------|
@@ -131,11 +131,9 @@ This is not an exhaustive list, so any other related topics are also welcome. If
 | Introduction to Hi-C data (theory and practice) |
 | Introduction to Nanopore data (theory and practice) |
 | Quality control of raw genomic data |
-| VGP Raw data QC toolkit in Galaxy |
 | Purging haplotypic duplication from assemblies (theory and practice) |
 | YAHS and Hi-C scaffolding |
 | Verkko: telomere-to-telomere assembly of diploid chromosomes |
 | Using OrthoFinder to find orthologs across genomes |
-| Aligning whole genomes using Cactus |
 | Using the Telomere Identification toolKit (tidk) |
 | Using the Organelle Assembly ToolKit (oatk) |
