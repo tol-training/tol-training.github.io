@@ -79,7 +79,7 @@ If there are 2 time slots available for a session, pick the one you can attend m
 
     **Zoom Link** Click it to join the session. **All times are in UTC/GMT** and have a link which will add the event to your own preferred calendar in your time zone with the zoom link
 
-    **Please join Discord** at **[discord.gg/XW97NyjR83](https://discord.gg/XW97NyjR83){ : target="_blank" }** as zoom chats will be disabled
+    **Please join Discord** as zoom chats will be disabled. By now everyone should be on Discord, but if you're not, email contact [at] bga23 dot org for a link.
 
     **Please sign up for a Gitpod account** if the title below says GITPOD - instructions at [BGA23.org/gitpod](gitpod.md)
 
